@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="NameAndType">
+  <Class Name="SimilarImageSearchEngine.ReverseImageSearchEngine" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="3" Width="3.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAVAwAEAACAqAUAoAAAAAEAAAAAAAEIAECAAAAAEAIQ=</HashCode>
+      <FileName>ReverseImageSearchEngine.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="SimilarImageSearchEngine.Shape">
+    <Position X="5.5" Y="3" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IIABAABEjCIAIQIgEAoAOEEKACAAQBCCACgAAEAFCAA=</HashCode>
+      <FileName>Shape.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Arcs" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimilarImageSearchEngine.ShapeExtractor">
+    <Position X="1.25" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ShapeExtractor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimilarImageSearchEngine.Arcs.Arc">
+    <Position X="9.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Protected" Collapsed="true" />
+      <Compartment Name="Private" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAIQCAAAAAAYAgEAMUigAAgSgIIIBBABEgIJIQACDg=</HashCode>
+      <FileName>Arcs\Arc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimilarImageSearchEngine.Arcs.ArcCollection">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Arcs\ArcCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

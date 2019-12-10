@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{425BB451-F8DC-486D-A55E-B721855789AE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SimilarImageSearch.Test</RootNamespace>
+    <AssemblyName>Test</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.1.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Aforge\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging, Version=2.1.5.0, Culture=neutral, PublicKeyToken=ba8ddea9676ca48b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Aforge\AForge.Imaging.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Imaging.IPPrototyper, Version=1.0.1.1, Culture=neutral, PublicKeyToken=c6e9a6d4c86d47e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Aforge\AForge.Imaging.IPPrototyper.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Math, Version=2.1.5.0, Culture=neutral, PublicKeyToken=abba2e25397ee8c9, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Aforge\AForge.Math.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <CodeAnalysisDependentAssemblyPaths Condition=" '$(VS100COMNTOOLS)' != '' " Include="$(VS100COMNTOOLS)..\IDE\PrivateAssemblies">
+      <Visible>False</Visible>
+    </CodeAnalysisDependentAssemblyPaths>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArcsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArcsView.Designer.cs">
+      <DependentUpon>ArcsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ArcTest.cs" />
+    <Compile Include="GeometryTest.cs" />
+    <Compile Include="Misc.cs" />
+    <Compile Include="OCRTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FingerPrintProcessor\FingerPrintProcessor.csproj">
+      <Project>{32B002B8-8E56-4FF9-9BC5-779172B8A0B8}</Project>
+      <Name>FingerPrintProcessor</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OCR\OCR.csproj">
+      <Project>{CCBF10CD-513D-4221-9232-CD0BEA785465}</Project>
+      <Name>OCR</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SimilarImageSearchEngine\SimilarImageSearchEngine.csproj">
+      <Project>{B6746621-52D4-4A98-B4A0-61D05D9917C7}</Project>
+      <Name>SimilarImageSearchEngine</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ArcsView.resx">
+      <DependentUpon>ArcsView.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Alphabets\A.png" />
+    <Content Include="Alphabets\B.png" />
+    <Content Include="Alphabets\C.png" />
+    <Content Include="Alphabets\D.png" />
+    <Content Include="Alphabets\E.png" />
+    <Content Include="Alphabets\F.png" />
+    <Content Include="Alphabets\G.png" />
+    <Content Include="Alphabets\H.png" />
+    <Content Include="Alphabets\I.png" />
+    <Content Include="Alphabets\J.png" />
+    <Content Include="Alphabets\K.png" />
+    <Content Include="Alphabets\L.png" />
+    <Content Include="Alphabets\M.png" />
+    <Content Include="Alphabets\N.png" />
+    <Content Include="Alphabets\O.png" />
+    <Content Include="Alphabets\P.png" />
+    <Content Include="Alphabets\Q.png" />
+    <Content Include="Alphabets\R.png" />
+    <None Include="IPPrototyper.exe">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <Content Include="raw.png" />
+    <Content Include="Alphabets\S.png" />
+    <Content Include="Alphabets\T.png" />
+    <Content Include="Alphabets\U.png" />
+    <Content Include="Alphabets\V.png" />
+    <Content Include="Alphabets\W.png" />
+    <Content Include="Alphabets\X.png" />
+    <Content Include="Alphabets\Y.png" />
+    <Content Include="Alphabets\Z.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,1145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @17 @18 Member=(Name=CheckCrossArcs OverloadingParameters=[@19,@19,(@38 @42 Type=Double&amp;),(@38 @42 Type=Double&amp;)]))" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CheckCrossArcs" />
+    <Node Id="(@1 @17 @18 Member=.cctor)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="static Arc" />
+    <Node Id="(@1 @2 @10 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @10 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="(@1 @2 @12 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @12 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="(@1 @2 @14 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @14 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="(@1 @2 @31 @144)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="ReverseImageSearchEngine" />
+    <Node Id="(@1 @2 @31 Member=(Name=DeleteFromDatabase @105))" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="DeleteFromDatabase" />
+    <Node Id="(@1 @2 @31 Member=.cctor)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="static ReverseImageSearchEngine" />
+    <Node Id="(@1 @2 @31 Member=DeleteAllData)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="DeleteAllData" />
+    <Node Id="(@1 @2 @31 Member=Dispose)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Dispose" />
+    <Node Id="(@1 @2 @33 Member=Dispose)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Dispose" />
+    <Node Id="(@1 @2 @33 Member=get_Image)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Image" />
+    <Node Id="(@1 @2 @33 Member=get_NeighborArcFitCount)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_NeighborArcFitCount" />
+    <Node Id="(@1 @2 @36 @144)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="ShapeInfo" />
+    <Node Id="(@1 @2 @36 Member=get_FileLength)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_FileLength" />
+    <Node Id="(@1 @2 @36 Member=get_ImageID)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ImageID" />
+    <Node Id="(@1 @2 @36 Member=get_ImagePath)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ImagePath" />
+    <Node Id="(@1 @2 @36 Member=get_ImageSize)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ImageSize" />
+    <Node Id="(@1 @2 @36 Member=get_ShapeID)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ShapeID" />
+    <Node Id="(@1 @2 @36 Member=get_ShapeSize)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ShapeSize" />
+    <Node Id="(@1 @2 @36 Member=get_Similarity)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Similarity" />
+    <Node Id="(@1 @2 @4 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @4 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="(@1 @2 @4 Member=System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current" />
+    <Node Id="(@1 @2 @6 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @6 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="(@1 @2 @6 Member=System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current" />
+    <Node Id="(@1 @2 @8 @215)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.IEnumerator.get_Current" />
+    <Node Id="(@1 @2 @8 @216)" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerator.Reset" />
+    <Node Id="@101" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ImageSize" />
+    <Node Id="@102" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MinimumAcceptableShapeSize" />
+    <Node Id="@103" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ShapeSize" />
+    <Node Id="@106" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="InsertToDatabase" />
+    <Node Id="@107" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="SearchImageFiles" />
+    <Node Id="@108" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ImagePath" />
+    <Node Id="@11" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="ReverseImageSearchEngine.&lt;SearchSimilarImages&gt;d__21" />
+    <Node Id="@110" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Shape" />
+    <Node Id="@111" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MakeArcCollection" />
+    <Node Id="@112" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CompareBytes" />
+    <Node Id="@113" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="AngleDifference" />
+    <Node Id="@114" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CalculateAngle" />
+    <Node Id="@115" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Label="&lt;GetPointsSortedByDistance&gt;b__0" />
+    <Node Id="@116" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CenterPoint" />
+    <Node Id="@117" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Distance" />
+    <Node Id="@118" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="FindArc" />
+    <Node Id="@119" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="GetDataFromUimg" />
+    <Node Id="@120" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="SearchImageFiles" />
+    <Node Id="@121" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CompareShapesBySize" />
+    <Node Id="@122" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="SearchSimilarImages" />
+    <Node Id="@123" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ExtractFromImage" />
+    <Node Id="@124" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="TestArcFit" />
+    <Node Id="@125" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="TestArcFitForDefianced" />
+    <Node Id="@126" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="TestArcFitForStrightLine" />
+    <Node Id="@127" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="SetDataToUimg" />
+    <Node Id="@128" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MergeArcs" />
+    <Node Id="@129" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Arc" />
+    <Node Id="@13" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="Shape.&lt;GetArcsWithEndPoint&gt;d__8" />
+    <Node Id="@130" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Arc" />
+    <Node Id="@131" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CircleCenter" />
+    <Node Id="@132" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="SearchSimilarImages" />
+    <Node Id="@133" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CalculateArcSimilarity" />
+    <Node Id="@134" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="Merge2Arcs" />
+    <Node Id="@135" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Arc" />
+    <Node Id="@136" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CalculateEndPoint" />
+    <Node Id="@137" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="AnalyzeSimilarity" />
+    <Node Id="@138" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="CalculateRadiusAndCenterPoint" />
+    <Node Id="@139" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="Surf" />
+    <Node Id="@140" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="DrawArc" />
+    <Node Id="@141" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="DrawArcsRecrusively" />
+    <Node Id="@142" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="ShapeInfo" />
+    <Node Id="@143" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="static Shape" />
+    <Node Id="@145" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsProtected="True" CodeSchemaProperty_IsSpecialName="True" Label="Arc" />
+    <Node Id="@146" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="ArcCollection" />
+    <Node Id="@147" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MergeArcs" />
+    <Node Id="@148" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MergeClosePoints" />
+    <Node Id="@149" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Shape" />
+    <Node Id="@15" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="Shape.&lt;GetArcsWithStartPoint&gt;d__2" />
+    <Node Id="@150" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally16" />
+    <Node Id="@151" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally1e" />
+    <Node Id="@152" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally32" />
+    <Node Id="@153" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally5" />
+    <Node Id="@154" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally5" />
+    <Node Id="@155" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finally8" />
+    <Node Id="@156" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finallyb" />
+    <Node Id="@157" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finallyb" />
+    <Node Id="@158" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="&lt;&gt;m__Finallyf" />
+    <Node Id="@159" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="AnalyzeArcs" />
+    <Node Id="@16" Category="CodeSchema_Class" CodeSchemaProperty_IsArray="True" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Shape.Shape[]" />
+    <Node Id="@160" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Clone" />
+    <Node Id="@161" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Clone" />
+    <Node Id="@162" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Angle" />
+    <Node Id="@163" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ArcLength" />
+    <Node Id="@164" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Arcs" />
+    <Node Id="@165" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_CenterPoint" />
+    <Node Id="@166" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Deflection" />
+    <Node Id="@167" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_EndAngle" />
+    <Node Id="@168" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_EndPoint" />
+    <Node Id="@169" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_EndPointTangentAngle" />
+    <Node Id="@170" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_HeadToHeadArcsAndAngles" />
+    <Node Id="@171" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Height" />
+    <Node Id="@172" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_IsStrightLine" />
+    <Node Id="@173" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MaxAngleDifference" />
+    <Node Id="@174" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MaxDeflectionDifference" />
+    <Node Id="@175" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MaxDistanceToMerge" />
+    <Node Id="@176" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MaxPointsDistance" />
+    <Node Id="@177" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MiddlePoint" />
+    <Node Id="@178" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MinArcLength" />
+    <Node Id="@179" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_MinimumAcceptableShapeSize" />
+    <Node Id="@180" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_NextArcsAndAngles" />
+    <Node Id="@181" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Radius" />
+    <Node Id="@182" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_StartAngle" />
+    <Node Id="@183" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_StartPoint" />
+    <Node Id="@184" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_TailToTailArcsAndAngles" />
+    <Node Id="@185" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_TangentAngle" />
+    <Node Id="@186" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Width" />
+    <Node Id="@187" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="GetMaxSizeToDraw" />
+    <Node Id="@188" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="GetMinSizeToDraw" />
+    <Node Id="@19" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Arc" />
+    <Node Id="@190" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@191" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@192" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@193" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@194" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@195" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MoveNext" />
+    <Node Id="@196" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="RelativateArcs" />
+    <Node Id="@197" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="RelativateArcsAndGetUnrelatedArcs" />
+    <Node Id="@198" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.GetEnumerator" />
+    <Node Id="@199" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.GetEnumerator" />
+    <Node Id="@20" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="ArcCollection" />
+    <Node Id="@200" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.ShapeInfo&gt;.GetEnumerator" />
+    <Node Id="@201" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.ShapeInfo&gt;.GetEnumerator" />
+    <Node Id="@202" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;System.String&gt;.GetEnumerator" />
+    <Node Id="@203" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.Generic.IEnumerable&lt;System.String&gt;.GetEnumerator" />
+    <Node Id="@204" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.get_Current" />
+    <Node Id="@205" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.get_Current" />
+    <Node Id="@206" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.ShapeInfo&gt;.get_Current" />
+    <Node Id="@207" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.ShapeInfo&gt;.get_Current" />
+    <Node Id="@209" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@210" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@211" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@212" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@213" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@214" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.Collections.IEnumerable.GetEnumerator" />
+    <Node Id="@218" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@219" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@22" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="GeometryTools" />
+    <Node Id="@220" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@221" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@222" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@223" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="System.IDisposable.Dispose" />
+    <Node Id="@224" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ToString" />
+    <Node Id="@24" Category="CodeSchema_Interface" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="IArcOptimizer" />
+    <Node Id="@26" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="MergeArcs" />
+    <Node Id="@28" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="MergeClosePoints" />
+    <Node Id="@30" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="RemoveSmallArcs" />
+    <Node Id="@32" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="ReverseImageSearchEngine" />
+    <Node Id="@34" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Shape" />
+    <Node Id="@35" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="ShapeExtractor" />
+    <Node Id="@37" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="ShapeInfo" />
+    <Node Id="@41" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="MergePoints" />
+    <Node Id="@44" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_HeadToHeadArcsAndAngles" />
+    <Node Id="@45" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_NextArcsAndAngles" />
+    <Node Id="@46" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_TailToTailArcsAndAngles" />
+    <Node Id="@47" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="ClearArc" />
+    <Node Id="@48" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ReverseArc" />
+    <Node Id="@5" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="ReverseImageSearchEngine.&lt;SearchImageFiles&gt;d__0" />
+    <Node Id="@50" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ApplyOptimization" />
+    <Node Id="@51" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ApplyOptimization" />
+    <Node Id="@52" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ApplyOptimization" />
+    <Node Id="@53" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ApplyOptimization" />
+    <Node Id="@54" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Arcs" />
+    <Node Id="@57" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Shape" />
+    <Node Id="@58" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="AnalyzeImage" />
+    <Node Id="@60" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="DrawArcsToImage" />
+    <Node Id="@61" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="DrawArcsToImageWithRelativity" />
+    <Node Id="@63" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="MergeClosePoints" />
+    <Node Id="@64" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="RemoveSmallArcs" />
+    <Node Id="@65" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CheckDeflection" />
+    <Node Id="@66" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="CheckRadius" />
+    <Node Id="@67" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="NormalizeAngle" />
+    <Node Id="@68" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ArcLength" />
+    <Node Id="@69" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Deflection" />
+    <Node Id="@7" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="ReverseImageSearchEngine.&lt;SearchImageFiles&gt;d__12" />
+    <Node Id="@70" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MaxAngleDifference" />
+    <Node Id="@71" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MaxDeflectionDifference" />
+    <Node Id="@72" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MaxDistanceToMerge" />
+    <Node Id="@73" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MaxPointsDistance" />
+    <Node Id="@74" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_MinArcLength" />
+    <Node Id="@75" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_StartAngle" />
+    <Node Id="@76" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_TangentAngle" />
+    <Node Id="@77" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="GetArcsWithEndPoint" />
+    <Node Id="@78" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="GetArcsWithStartPoint" />
+    <Node Id="@79" Category="CodeSchema_Method" CodeSchemaProperty_IsPrivate="True" Label="GetPointsSortedByDistance" />
+    <Node Id="@80" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="OptimizeArcs" />
+    <Node Id="@84" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;SearchImageFiles&gt;d__0" />
+    <Node Id="@85" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;SearchImageFiles&gt;d__12" />
+    <Node Id="@86" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;SearchSimilarImages&gt;d__19" />
+    <Node Id="@87" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;SearchSimilarImages&gt;d__21" />
+    <Node Id="@88" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;GetArcsWithEndPoint&gt;d__8" />
+    <Node Id="@89" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="&lt;GetArcsWithStartPoint&gt;d__2" />
+    <Node Id="@9" Category="CodeSchema_Class" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" Group="Collapsed" Label="ReverseImageSearchEngine.&lt;SearchSimilarImages&gt;d__19" />
+    <Node Id="@90" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="AnalyzeArcs" />
+    <Node Id="@91" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_FileLength" />
+    <Node Id="@92" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ImageID" />
+    <Node Id="@93" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_NeighborArcFitCount" />
+    <Node Id="@94" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ShapeID" />
+    <Node Id="@96" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Arc" />
+    <Node Id="@97" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPrivate="True" CodeSchemaProperty_IsSpecialName="True" Label="set_StartPoint" />
+    <Node Id="@99" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Similarity" />
+  </Nodes>
+  <Links>
+    <Link Source="@106" Target="@16" Category="References" />
+    <Link Source="@106" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@170" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@171" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@180" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@184" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@106" Target="@19" Category="References" />
+    <Link Source="@106" Target="@58" Category="CodeSchema_Calls" />
+    <Link Source="@107" Target="@5" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@107" Target="@84" Category="CodeSchema_Calls" />
+    <Link Source="@11" Target="(@1 @2 @10 @215)" Category="Contains" />
+    <Link Source="@11" Target="(@1 @2 @10 @216)" Category="Contains" />
+    <Link Source="@11" Target="@152" Category="Contains" />
+    <Link Source="@11" Target="@16" Category="References" />
+    <Link Source="@11" Target="@193" Category="Contains" />
+    <Link Source="@11" Target="@20" Category="References" />
+    <Link Source="@11" Target="@201" Category="Contains" />
+    <Link Source="@11" Target="@207" Category="Contains" />
+    <Link Source="@11" Target="@212" Category="Contains" />
+    <Link Source="@11" Target="@221" Category="Contains" />
+    <Link Source="@11" Target="@32" Category="References" />
+    <Link Source="@11" Target="@37" Category="References" />
+    <Link Source="@11" Target="@87" Category="Contains" />
+    <Link Source="@111" Target="@129" Category="CodeSchema_Calls" />
+    <Link Source="@111" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@111" Target="@19" Category="References" />
+    <Link Source="@111" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@111" Target="@68" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@124" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@129" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@19" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@118" Target="@68" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@69" Category="CodeSchema_Calls" />
+    <Link Source="@118" Target="@76" Category="CodeSchema_Calls" />
+    <Link Source="@119" Target="@171" Category="CodeSchema_Calls" />
+    <Link Source="@119" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@120" Target="@7" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@120" Target="@85" Category="CodeSchema_Calls" />
+    <Link Source="@121" Target="@171" Category="CodeSchema_Calls" />
+    <Link Source="@121" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@122" Target="@86" Category="CodeSchema_Calls" />
+    <Link Source="@122" Target="@9" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@124" Target="@125" Category="CodeSchema_Calls" />
+    <Link Source="@124" Target="@126" Category="CodeSchema_Calls" />
+    <Link Source="@124" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@119" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@165" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@125" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@126" Target="@119" Category="CodeSchema_Calls" />
+    <Link Source="@126" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@126" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@126" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@127" Target="@171" Category="CodeSchema_Calls" />
+    <Link Source="@127" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@128" Target="@70" Category="CodeSchema_Calls" />
+    <Link Source="@128" Target="@71" Category="CodeSchema_Calls" />
+    <Link Source="@128" Target="@73" Category="CodeSchema_Calls" />
+    <Link Source="@129" Target="@138" Category="CodeSchema_Calls" />
+    <Link Source="@129" Target="@65" Category="CodeSchema_Calls" />
+    <Link Source="@129" Target="@96" Category="CodeSchema_Calls" />
+    <Link Source="@13" Target="(@1 @2 @12 @215)" Category="Contains" />
+    <Link Source="@13" Target="(@1 @2 @12 @216)" Category="Contains" />
+    <Link Source="@13" Target="@157" Category="Contains" />
+    <Link Source="@13" Target="@19" Category="References" />
+    <Link Source="@13" Target="@194" Category="Contains" />
+    <Link Source="@13" Target="@198" Category="Contains" />
+    <Link Source="@13" Target="@204" Category="Contains" />
+    <Link Source="@13" Target="@213" Category="Contains" />
+    <Link Source="@13" Target="@222" Category="Contains" />
+    <Link Source="@13" Target="@34" Category="References" />
+    <Link Source="@13" Target="@88" Category="Contains" />
+    <Link Source="@130" Target="@113" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@117" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@131" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@145" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@68" Category="CodeSchema_Calls" />
+    <Link Source="@130" Target="@97" Category="CodeSchema_Calls" />
+    <Link Source="@132" Target="@11" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@132" Target="@87" Category="CodeSchema_Calls" />
+    <Link Source="@133" Target="@113" Category="CodeSchema_Calls" />
+    <Link Source="@133" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@133" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@116" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@130" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@134" Target="@19" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@135" Target="@136" Category="CodeSchema_Calls" />
+    <Link Source="@135" Target="@145" Category="CodeSchema_Calls" />
+    <Link Source="@135" Target="@66" Category="CodeSchema_Calls" />
+    <Link Source="@135" Target="@97" Category="CodeSchema_Calls" />
+    <Link Source="@137" Target="@139" Category="CodeSchema_Calls" />
+    <Link Source="@139" Target="@133" Category="CodeSchema_Calls" />
+    <Link Source="@139" Target="@180" Category="CodeSchema_Calls" />
+    <Link Source="@139" Target="@19" Category="References" />
+    <Link Source="@140" Target="@162" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@165" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@140" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@129" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@140" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@141" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@169" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@170" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@180" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@19" Category="References" />
+    <Link Source="@141" Target="@67" Category="CodeSchema_Calls" />
+    <Link Source="@141" Target="@68" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@101" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@103" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@108" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@91" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@92" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@94" Category="CodeSchema_Calls" />
+    <Link Source="@142" Target="@99" Category="CodeSchema_Calls" />
+    <Link Source="@143" Target="@102" Category="CodeSchema_Calls" />
+    <Link Source="@147" Target="@128" Category="CodeSchema_Calls" />
+    <Link Source="@148" Target="@72" Category="CodeSchema_Calls" />
+    <Link Source="@15" Target="(@1 @2 @14 @215)" Category="Contains" />
+    <Link Source="@15" Target="(@1 @2 @14 @216)" Category="Contains" />
+    <Link Source="@15" Target="@154" Category="Contains" />
+    <Link Source="@15" Target="@19" Category="References" />
+    <Link Source="@15" Target="@195" Category="Contains" />
+    <Link Source="@15" Target="@199" Category="Contains" />
+    <Link Source="@15" Target="@205" Category="Contains" />
+    <Link Source="@15" Target="@214" Category="Contains" />
+    <Link Source="@15" Target="@223" Category="Contains" />
+    <Link Source="@15" Target="@34" Category="References" />
+    <Link Source="@15" Target="@89" Category="Contains" />
+    <Link Source="@159" Target="@118" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@119" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@171" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@186" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@19" Category="References" />
+    <Link Source="@159" Target="@47" Category="CodeSchema_Calls" />
+    <Link Source="@159" Target="@54" Category="CodeSchema_Calls" />
+    <Link Source="@16" Target="@34" Category="CodeSchema_ElementType" />
+    <Link Source="@160" Target="@129" Category="CodeSchema_Calls" />
+    <Link Source="@160" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@160" Target="@180" Category="CodeSchema_Calls" />
+    <Link Source="@160" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@160" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@160" Target="@19" Category="References" />
+    <Link Source="@160" Target="@45" Category="CodeSchema_Calls" />
+    <Link Source="@161" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@161" Target="@19" Category="References" />
+    <Link Source="@161" Target="@20" Category="References" />
+    <Link Source="@164" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@167" Target="@162" Category="CodeSchema_Calls" />
+    <Link Source="@167" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@172" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@165" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@167" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@177" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@187" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@187" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@187" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@187" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@187" Target="@19" Category="References" />
+    <Link Source="@188" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@188" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@188" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@188" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@188" Target="@19" Category="References" />
+    <Link Source="@19" Target="(@1 @17 @18 Member=(Name=CheckCrossArcs OverloadingParameters=[@19,@19,(@38 @42 Type=Double&amp;),(@38 @42 Type=Double&amp;)]))" Category="Contains" />
+    <Link Source="@19" Target="(@1 @17 @18 Member=.cctor)" Category="Contains" />
+    <Link Source="@19" Target="@114" Category="Contains" />
+    <Link Source="@19" Target="@129" Category="Contains" />
+    <Link Source="@19" Target="@130" Category="Contains" />
+    <Link Source="@19" Target="@135" Category="Contains" />
+    <Link Source="@19" Target="@136" Category="Contains" />
+    <Link Source="@19" Target="@138" Category="Contains" />
+    <Link Source="@19" Target="@145" Category="Contains" />
+    <Link Source="@19" Target="@160" Category="Contains" />
+    <Link Source="@19" Target="@162" Category="Contains" />
+    <Link Source="@19" Target="@163" Category="Contains" />
+    <Link Source="@19" Target="@165" Category="Contains" />
+    <Link Source="@19" Target="@166" Category="Contains" />
+    <Link Source="@19" Target="@167" Category="Contains" />
+    <Link Source="@19" Target="@168" Category="Contains" />
+    <Link Source="@19" Target="@169" Category="Contains" />
+    <Link Source="@19" Target="@170" Category="Contains" />
+    <Link Source="@19" Target="@172" Category="Contains" />
+    <Link Source="@19" Target="@177" Category="Contains" />
+    <Link Source="@19" Target="@180" Category="Contains" />
+    <Link Source="@19" Target="@181" Category="Contains" />
+    <Link Source="@19" Target="@182" Category="Contains" />
+    <Link Source="@19" Target="@183" Category="Contains" />
+    <Link Source="@19" Target="@184" Category="Contains" />
+    <Link Source="@19" Target="@185" Category="Contains" />
+    <Link Source="@19" Target="@224" Category="Contains" />
+    <Link Source="@19" Target="@44" Category="Contains" />
+    <Link Source="@19" Target="@45" Category="Contains" />
+    <Link Source="@19" Target="@46" Category="Contains" />
+    <Link Source="@19" Target="@48" Category="Contains" />
+    <Link Source="@19" Target="@65" Category="Contains" />
+    <Link Source="@19" Target="@66" Category="Contains" />
+    <Link Source="@19" Target="@68" Category="Contains" />
+    <Link Source="@19" Target="@69" Category="Contains" />
+    <Link Source="@19" Target="@75" Category="Contains" />
+    <Link Source="@19" Target="@76" Category="Contains" />
+    <Link Source="@19" Target="@96" Category="Contains" />
+    <Link Source="@19" Target="@97" Category="Contains" />
+    <Link Source="@190" Target="@107" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@153" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@155" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@156" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@158" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@218" Category="CodeSchema_Calls" />
+    <Link Source="@190" Target="@32" Category="References" />
+    <Link Source="@191" Target="@107" Category="CodeSchema_Calls" />
+    <Link Source="@191" Target="@150" Category="CodeSchema_Calls" />
+    <Link Source="@191" Target="@219" Category="CodeSchema_Calls" />
+    <Link Source="@192" Target="@132" Category="CodeSchema_Calls" />
+    <Link Source="@192" Target="@151" Category="CodeSchema_Calls" />
+    <Link Source="@192" Target="@220" Category="CodeSchema_Calls" />
+    <Link Source="@192" Target="@32" Category="References" />
+    <Link Source="@193" Target="@111" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@112" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@137" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@142" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@152" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@196" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@221" Category="CodeSchema_Calls" />
+    <Link Source="@193" Target="@32" Category="References" />
+    <Link Source="@193" Target="@58" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@117" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@157" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@222" Category="CodeSchema_Calls" />
+    <Link Source="@194" Target="@34" Category="References" />
+    <Link Source="@195" Target="@117" Category="CodeSchema_Calls" />
+    <Link Source="@195" Target="@154" Category="CodeSchema_Calls" />
+    <Link Source="@195" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@195" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@195" Target="@223" Category="CodeSchema_Calls" />
+    <Link Source="@195" Target="@34" Category="References" />
+    <Link Source="@196" Target="@116" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@130" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@170" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@180" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@184" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@19" Category="References" />
+    <Link Source="@196" Target="@197" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@20" Category="References" />
+    <Link Source="@196" Target="@54" Category="CodeSchema_Calls" />
+    <Link Source="@196" Target="@79" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@113" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@169" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@19" Category="References" />
+    <Link Source="@197" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@197" Target="@44" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@45" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@46" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@77" Category="CodeSchema_Calls" />
+    <Link Source="@197" Target="@78" Category="CodeSchema_Calls" />
+    <Link Source="@198" Target="@13" Category="References" />
+    <Link Source="@198" Target="@88" Category="CodeSchema_Calls" />
+    <Link Source="@199" Target="@15" Category="References" />
+    <Link Source="@199" Target="@89" Category="CodeSchema_Calls" />
+    <Link Source="@20" Target="@146" Category="Contains" />
+    <Link Source="@20" Target="@161" Category="Contains" />
+    <Link Source="@200" Target="@86" Category="CodeSchema_Calls" />
+    <Link Source="@200" Target="@9" Category="References" />
+    <Link Source="@201" Target="@11" Category="References" />
+    <Link Source="@201" Target="@87" Category="CodeSchema_Calls" />
+    <Link Source="@202" Target="@5" Category="References" />
+    <Link Source="@202" Target="@84" Category="CodeSchema_Calls" />
+    <Link Source="@203" Target="@7" Category="References" />
+    <Link Source="@203" Target="@85" Category="CodeSchema_Calls" />
+    <Link Source="@204" Target="@19" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@205" Target="@19" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@206" Target="@37" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@207" Target="@37" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@209" Target="@202" Category="CodeSchema_Calls" />
+    <Link Source="@210" Target="@203" Category="CodeSchema_Calls" />
+    <Link Source="@211" Target="@200" Category="CodeSchema_Calls" />
+    <Link Source="@212" Target="@201" Category="CodeSchema_Calls" />
+    <Link Source="@213" Target="@198" Category="CodeSchema_Calls" />
+    <Link Source="@214" Target="@199" Category="CodeSchema_Calls" />
+    <Link Source="@218" Target="@153" Category="CodeSchema_Calls" />
+    <Link Source="@218" Target="@155" Category="CodeSchema_Calls" />
+    <Link Source="@218" Target="@156" Category="CodeSchema_Calls" />
+    <Link Source="@218" Target="@158" Category="CodeSchema_Calls" />
+    <Link Source="@219" Target="@150" Category="CodeSchema_Calls" />
+    <Link Source="@22" Target="@113" Category="Contains" />
+    <Link Source="@22" Target="@116" Category="Contains" />
+    <Link Source="@22" Target="@117" Category="Contains" />
+    <Link Source="@22" Target="@131" Category="Contains" />
+    <Link Source="@22" Target="@67" Category="Contains" />
+    <Link Source="@220" Target="@151" Category="CodeSchema_Calls" />
+    <Link Source="@221" Target="@152" Category="CodeSchema_Calls" />
+    <Link Source="@222" Target="@157" Category="CodeSchema_Calls" />
+    <Link Source="@223" Target="@154" Category="CodeSchema_Calls" />
+    <Link Source="@224" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@224" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@224" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@224" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@224" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@24" Target="@50" Category="Contains" />
+    <Link Source="@26" Target="@128" Category="Contains" />
+    <Link Source="@26" Target="@134" Category="Contains" />
+    <Link Source="@26" Target="@147" Category="Contains" />
+    <Link Source="@26" Target="@173" Category="Contains" />
+    <Link Source="@26" Target="@174" Category="Contains" />
+    <Link Source="@26" Target="@176" Category="Contains" />
+    <Link Source="@26" Target="@24" Category="Implements" />
+    <Link Source="@26" Target="@51" Category="Contains" />
+    <Link Source="@26" Target="@70" Category="Contains" />
+    <Link Source="@26" Target="@71" Category="Contains" />
+    <Link Source="@26" Target="@73" Category="Contains" />
+    <Link Source="@28" Target="@148" Category="Contains" />
+    <Link Source="@28" Target="@175" Category="Contains" />
+    <Link Source="@28" Target="@24" Category="Implements" />
+    <Link Source="@28" Target="@41" Category="Contains" />
+    <Link Source="@28" Target="@52" Category="Contains" />
+    <Link Source="@28" Target="@63" Category="Contains" />
+    <Link Source="@28" Target="@72" Category="Contains" />
+    <Link Source="@30" Target="@178" Category="Contains" />
+    <Link Source="@30" Target="@24" Category="Implements" />
+    <Link Source="@30" Target="@53" Category="Contains" />
+    <Link Source="@30" Target="@64" Category="Contains" />
+    <Link Source="@30" Target="@74" Category="Contains" />
+    <Link Source="@32" Target="(@1 @2 @31 @144)" Category="Contains" />
+    <Link Source="@32" Target="(@1 @2 @31 Member=(Name=DeleteFromDatabase @105))" Category="Contains" />
+    <Link Source="@32" Target="(@1 @2 @31 Member=.cctor)" Category="Contains" />
+    <Link Source="@32" Target="(@1 @2 @31 Member=DeleteAllData)" Category="Contains" />
+    <Link Source="@32" Target="(@1 @2 @31 Member=Dispose)" Category="Contains" />
+    <Link Source="@32" Target="@106" Category="Contains" />
+    <Link Source="@32" Target="@107" Category="Contains" />
+    <Link Source="@32" Target="@11" Category="Contains" />
+    <Link Source="@32" Target="@111" Category="Contains" />
+    <Link Source="@32" Target="@112" Category="Contains" />
+    <Link Source="@32" Target="@120" Category="Contains" />
+    <Link Source="@32" Target="@121" Category="Contains" />
+    <Link Source="@32" Target="@122" Category="Contains" />
+    <Link Source="@32" Target="@132" Category="Contains" />
+    <Link Source="@32" Target="@133" Category="Contains" />
+    <Link Source="@32" Target="@137" Category="Contains" />
+    <Link Source="@32" Target="@139" Category="Contains" />
+    <Link Source="@32" Target="@5" Category="Contains" />
+    <Link Source="@32" Target="@58" Category="Contains" />
+    <Link Source="@32" Target="@7" Category="Contains" />
+    <Link Source="@32" Target="@9" Category="Contains" />
+    <Link Source="@34" Target="(@1 @2 @33 Member=Dispose)" Category="Contains" />
+    <Link Source="@34" Target="(@1 @2 @33 Member=get_Image)" Category="Contains" />
+    <Link Source="@34" Target="(@1 @2 @33 Member=get_NeighborArcFitCount)" Category="Contains" />
+    <Link Source="@34" Target="@102" Category="Contains" />
+    <Link Source="@34" Target="@110" Category="Contains" />
+    <Link Source="@34" Target="@115" Category="Contains" />
+    <Link Source="@34" Target="@118" Category="Contains" />
+    <Link Source="@34" Target="@119" Category="Contains" />
+    <Link Source="@34" Target="@124" Category="Contains" />
+    <Link Source="@34" Target="@125" Category="Contains" />
+    <Link Source="@34" Target="@126" Category="Contains" />
+    <Link Source="@34" Target="@127" Category="Contains" />
+    <Link Source="@34" Target="@13" Category="Contains" />
+    <Link Source="@34" Target="@140" Category="Contains" />
+    <Link Source="@34" Target="@141" Category="Contains" />
+    <Link Source="@34" Target="@143" Category="Contains" />
+    <Link Source="@34" Target="@149" Category="Contains" />
+    <Link Source="@34" Target="@15" Category="Contains" />
+    <Link Source="@34" Target="@159" Category="Contains" />
+    <Link Source="@34" Target="@164" Category="Contains" />
+    <Link Source="@34" Target="@171" Category="Contains" />
+    <Link Source="@34" Target="@179" Category="Contains" />
+    <Link Source="@34" Target="@186" Category="Contains" />
+    <Link Source="@34" Target="@187" Category="Contains" />
+    <Link Source="@34" Target="@188" Category="Contains" />
+    <Link Source="@34" Target="@196" Category="Contains" />
+    <Link Source="@34" Target="@197" Category="Contains" />
+    <Link Source="@34" Target="@20" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@34" Target="@47" Category="Contains" />
+    <Link Source="@34" Target="@54" Category="Contains" />
+    <Link Source="@34" Target="@57" Category="Contains" />
+    <Link Source="@34" Target="@60" Category="Contains" />
+    <Link Source="@34" Target="@61" Category="Contains" />
+    <Link Source="@34" Target="@77" Category="Contains" />
+    <Link Source="@34" Target="@78" Category="Contains" />
+    <Link Source="@34" Target="@79" Category="Contains" />
+    <Link Source="@34" Target="@80" Category="Contains" />
+    <Link Source="@34" Target="@90" Category="Contains" />
+    <Link Source="@34" Target="@93" Category="Contains" />
+    <Link Source="@35" Target="@123" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 @144)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_FileLength)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_ImageID)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_ImagePath)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_ImageSize)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_ShapeID)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_ShapeSize)" Category="Contains" />
+    <Link Source="@37" Target="(@1 @2 @36 Member=get_Similarity)" Category="Contains" />
+    <Link Source="@37" Target="@101" Category="Contains" />
+    <Link Source="@37" Target="@103" Category="Contains" />
+    <Link Source="@37" Target="@108" Category="Contains" />
+    <Link Source="@37" Target="@142" Category="Contains" />
+    <Link Source="@37" Target="@91" Category="Contains" />
+    <Link Source="@37" Target="@92" Category="Contains" />
+    <Link Source="@37" Target="@94" Category="Contains" />
+    <Link Source="@37" Target="@99" Category="Contains" />
+    <Link Source="@41" Target="@175" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@127" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@165" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@47" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@129" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@48" Target="@19" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@48" Target="@67" Category="CodeSchema_Calls" />
+    <Link Source="@5" Target="(@1 @2 @4 @215)" Category="Contains" />
+    <Link Source="@5" Target="(@1 @2 @4 @216)" Category="Contains" />
+    <Link Source="@5" Target="(@1 @2 @4 Member=System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current)" Category="Contains" />
+    <Link Source="@5" Target="@153" Category="Contains" />
+    <Link Source="@5" Target="@155" Category="Contains" />
+    <Link Source="@5" Target="@156" Category="Contains" />
+    <Link Source="@5" Target="@158" Category="Contains" />
+    <Link Source="@5" Target="@190" Category="Contains" />
+    <Link Source="@5" Target="@202" Category="Contains" />
+    <Link Source="@5" Target="@209" Category="Contains" />
+    <Link Source="@5" Target="@218" Category="Contains" />
+    <Link Source="@5" Target="@32" Category="References" />
+    <Link Source="@5" Target="@84" Category="Contains" />
+    <Link Source="@50" Target="@20" Category="CodeSchema_ReturnTypeLink" />
+    <Link Source="@51" Target="@113" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@117" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@134" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@161" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@166" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@169" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@173" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@174" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@176" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@185" Category="CodeSchema_Calls" />
+    <Link Source="@51" Target="@19" Category="References" />
+    <Link Source="@51" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@52" Target="@117" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@130" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@146" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@177" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@52" Target="@19" Category="References" />
+    <Link Source="@52" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@52" Target="@41" Category="CodeSchema_Calls" />
+    <Link Source="@53" Target="@161" Category="CodeSchema_Calls" />
+    <Link Source="@53" Target="@163" Category="CodeSchema_Calls" />
+    <Link Source="@53" Target="@178" Category="CodeSchema_Calls" />
+    <Link Source="@53" Target="@20" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@57" Target="@149" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@110" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@121" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@58" Target="@123" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@128" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@16" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@58" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@179" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@196" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@26" Category="References" />
+    <Link Source="@58" Target="@28" Category="References" />
+    <Link Source="@58" Target="@34" Category="References" />
+    <Link Source="@58" Target="@63" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@64" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@80" Category="CodeSchema_Calls" />
+    <Link Source="@58" Target="@90" Category="CodeSchema_Calls" />
+    <Link Source="@60" Target="@140" Category="CodeSchema_Calls" />
+    <Link Source="@60" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@60" Target="@187" Category="CodeSchema_Calls" />
+    <Link Source="@60" Target="@19" Category="References" />
+    <Link Source="@61" Target="@141" Category="CodeSchema_Calls" />
+    <Link Source="@61" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@61" Target="@187" Category="CodeSchema_Calls" />
+    <Link Source="@61" Target="@188" Category="CodeSchema_Calls" />
+    <Link Source="@63" Target="@72" Category="CodeSchema_Calls" />
+    <Link Source="@64" Target="@74" Category="CodeSchema_Calls" />
+    <Link Source="@68" Target="@114" Category="CodeSchema_Calls" />
+    <Link Source="@68" Target="@136" Category="CodeSchema_Calls" />
+    <Link Source="@68" Target="@172" Category="CodeSchema_Calls" />
+    <Link Source="@68" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@68" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@69" Target="@138" Category="CodeSchema_Calls" />
+    <Link Source="@69" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@69" Target="@65" Category="CodeSchema_Calls" />
+    <Link Source="@7" Target="(@1 @2 @6 @215)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 @216)" Category="Contains" />
+    <Link Source="@7" Target="(@1 @2 @6 Member=System.Collections.Generic.IEnumerator&lt;System.String&gt;.get_Current)" Category="Contains" />
+    <Link Source="@7" Target="@150" Category="Contains" />
+    <Link Source="@7" Target="@191" Category="Contains" />
+    <Link Source="@7" Target="@203" Category="Contains" />
+    <Link Source="@7" Target="@210" Category="Contains" />
+    <Link Source="@7" Target="@219" Category="Contains" />
+    <Link Source="@7" Target="@32" Category="References" />
+    <Link Source="@7" Target="@85" Category="Contains" />
+    <Link Source="@75" Target="@76" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@136" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@138" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@162" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@165" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@181" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@182" Category="CodeSchema_Calls" />
+    <Link Source="@76" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@77" Target="@13" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@77" Target="@88" Category="CodeSchema_Calls" />
+    <Link Source="@78" Target="@15" Category="References">
+      <Category Ref="CodeSchema_Calls" />
+    </Link>
+    <Link Source="@78" Target="@89" Category="CodeSchema_Calls" />
+    <Link Source="@79" Target="@115" Category="CodeSchema_FunctionPointer" />
+    <Link Source="@79" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@79" Target="@168" Category="CodeSchema_Calls" />
+    <Link Source="@79" Target="@183" Category="CodeSchema_Calls" />
+    <Link Source="@79" Target="@19" Category="References" />
+    <Link Source="@80" Target="@164" Category="CodeSchema_Calls" />
+    <Link Source="@80" Target="@50" Category="CodeSchema_Calls" />
+    <Link Source="@80" Target="@54" Category="CodeSchema_Calls" />
+    <Link Source="@9" Target="(@1 @2 @8 @215)" Category="Contains" />
+    <Link Source="@9" Target="(@1 @2 @8 @216)" Category="Contains" />
+    <Link Source="@9" Target="@151" Category="Contains" />
+    <Link Source="@9" Target="@192" Category="Contains" />
+    <Link Source="@9" Target="@200" Category="Contains" />
+    <Link Source="@9" Target="@206" Category="Contains" />
+    <Link Source="@9" Target="@211" Category="Contains" />
+    <Link Source="@9" Target="@220" Category="Contains" />
+    <Link Source="@9" Target="@32" Category="References" />
+    <Link Source="@9" Target="@37" Category="References" />
+    <Link Source="@9" Target="@86" Category="Contains" />
+    <Link Source="@90" Target="@159" Category="CodeSchema_Calls" />
+    <Link Source="@90" Target="@93" Category="CodeSchema_Calls" />
+    <Link Source="@96" Target="@145" Category="CodeSchema_Calls" />
+    <Link Source="@96" Target="@97" Category="CodeSchema_Calls" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Block" Label="Block" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Blocks" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_ElementType" Label="Element Type" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Element Types" OutgoingActionLabel="Element Types" />
+    <Category Id="CodeSchema_FunctionPointer" Label="Function Pointer" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Function Pointers" OutgoingActionLabel="Function Pointers" />
+    <Category Id="CodeSchema_Interface" Label="Interface" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Interface" IsProviderRoot="False" NavigationActionLabel="Interfaces" />
+    <Category Id="CodeSchema_Member" Label="Member" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" IsProviderRoot="False" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" IsProviderRoot="False" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_ReturnTypeLink" Label="Return" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Return types" OutgoingActionLabel="Return types" />
+    <Category Id="CodeSchema_Statement" Label="Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Statement" />
+    <Category Id="CodeSchema_Type" Label="Type" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="Implements" Label="Implements" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Implemented by" OutgoingActionLabel="Implements" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsArray" Label="IsArray" Description="IsArray" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsCompilerGenerated" Label="IsCompilerGenerated" Description="IsCompilerGenerated" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="IsConstructor" Description="IsConstructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPrivate" Label="IsPrivate" Description="IsPrivate" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsProtected" Label="IsProtected" Description="IsProtected" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="IsPublic" Description="IsPublic" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="IsSpecialName" Description="IsSpecialName" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.Progression.GraphModel.GroupStyle" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="ArrayRank" Label="Array Rank" ValueType="System.String" />
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="GenericArguments" Label="Generic Arguments" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" />
+    <Name Id="GenericParameterCount" Label="Generic Parameter Count" ValueType="System.String" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" Formatter="NameValueNoEscape" />
+    <Name Id="ParentType" Label="Parent Type" ValueType="System.Object" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#1C3068" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#4A65A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Type" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#D3DCEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Generics" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Generics')" />
+      <Setter Property="Background" Value="#FFA080A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(b6746621-52d4-4a98-b4a0-61d05d9917c7.OutputPathUri)" />
+    <Alias n="2" Id="Namespace=SimilarImageSearchEngine" />
+    <Alias n="3" Id="ParentType=ReverseImageSearchEngine" />
+    <Alias n="4" Id="Type=(Name=&lt;SearchImageFiles&gt;d__0 @3)" />
+    <Alias n="5" Id="(@1 @2 @4)" />
+    <Alias n="6" Id="Type=(Name=&lt;SearchImageFiles&gt;d__12 @3)" />
+    <Alias n="7" Id="(@1 @2 @6)" />
+    <Alias n="8" Id="Type=(Name=&lt;SearchSimilarImages&gt;d__19 @3)" />
+    <Alias n="9" Id="(@1 @2 @8)" />
+    <Alias n="10" Id="Type=(Name=&lt;SearchSimilarImages&gt;d__21 @3)" />
+    <Alias n="11" Id="(@1 @2 @10)" />
+    <Alias n="12" Id="Type=(Name=&lt;GetArcsWithEndPoint&gt;d__8 ParentType=Shape)" />
+    <Alias n="13" Id="(@1 @2 @12)" />
+    <Alias n="14" Id="Type=(Name=&lt;GetArcsWithStartPoint&gt;d__2 ParentType=Shape)" />
+    <Alias n="15" Id="(@1 @2 @14)" />
+    <Alias n="16" Id="(@1 @2 Type=(Name=Shape ArrayRank=1 ParentType=Shape))" />
+    <Alias n="17" Id="Namespace=SimilarImageSearchEngine.Arcs" />
+    <Alias n="18" Id="Type=Arc" />
+    <Alias n="19" Id="(@1 @17 @18)" />
+    <Alias n="20" Id="(@1 @17 Type=ArcCollection)" />
+    <Alias n="21" Id="Type=GeometryTools" />
+    <Alias n="22" Id="(@1 @2 @21)" />
+    <Alias n="23" Id="Namespace=SimilarImageSearchEngine.Arcs.Optimization" />
+    <Alias n="24" Id="(@1 @23 Type=IArcOptimizer)" />
+    <Alias n="25" Id="Type=MergeArcs" />
+    <Alias n="26" Id="(@1 @23 @25)" />
+    <Alias n="27" Id="Type=MergeClosePoints" />
+    <Alias n="28" Id="(@1 @23 @27)" />
+    <Alias n="29" Id="Type=RemoveSmallArcs" />
+    <Alias n="30" Id="(@1 @23 @29)" />
+    <Alias n="31" Id="Type=ReverseImageSearchEngine" />
+    <Alias n="32" Id="(@1 @2 @31)" />
+    <Alias n="33" Id="Type=Shape" />
+    <Alias n="34" Id="(@1 @2 @33)" />
+    <Alias n="35" Id="(@1 @2 Type=ShapeExtractor)" />
+    <Alias n="36" Id="Type=ShapeInfo" />
+    <Alias n="37" Id="(@1 @2 @36)" />
+    <Alias n="38" Uri="Assembly=$(FxRootUri)/v2.0.50727/mscorlib.dll" />
+    <Alias n="39" Uri="Assembly=file:///$(Personal)/Others/Codes/AForge/Release/AForge.dll" />
+    <Alias n="40" Id="(@39 Namespace=AForge Type=DoublePoint)" />
+    <Alias n="41" Id="(@1 @23 @27 Member=(Name=MergePoints OverloadingParameters=[(@38 Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1 GenericArguments=[@40]))]))" />
+    <Alias n="42" Id="Namespace=System" />
+    <Alias n="43" Id="(@38 @42 Type=Double)" />
+    <Alias n="44" Id="(@1 @17 @18 Member=(Name=set_HeadToHeadArcsAndAngles OverloadingParameters=[(@38 Namespace=System.Collections.Generic Type=(Name=Dictionary GenericParameterCount=2 GenericArguments=[@19,@43]))]))" />
+    <Alias n="45" Id="(@1 @17 @18 Member=(Name=set_NextArcsAndAngles OverloadingParameters=[(@38 Namespace=System.Collections.Generic Type=(Name=Dictionary GenericParameterCount=2 GenericArguments=[@19,@43]))]))" />
+    <Alias n="46" Id="(@1 @17 @18 Member=(Name=set_TailToTailArcsAndAngles OverloadingParameters=[(@38 Namespace=System.Collections.Generic Type=(Name=Dictionary GenericParameterCount=2 GenericArguments=[@19,@43]))]))" />
+    <Alias n="47" Id="(@1 @2 @33 Member=(Name=ClearArc OverloadingParameters=[@19]))" />
+    <Alias n="48" Id="(@1 @17 @18 Member=(Name=ReverseArc OverloadingParameters=[@19]))" />
+    <Alias n="49" Id="Member=(Name=ApplyOptimization OverloadingParameters=[@20])" />
+    <Alias n="50" Id="(@1 @23 Type=IArcOptimizer @49)" />
+    <Alias n="51" Id="(@1 @23 @25 @49)" />
+    <Alias n="52" Id="(@1 @23 @27 @49)" />
+    <Alias n="53" Id="(@1 @23 @29 @49)" />
+    <Alias n="54" Id="(@1 @2 @33 Member=(Name=set_Arcs OverloadingParameters=[@20]))" />
+    <Alias n="55" Id="Name=.ctor" />
+    <Alias n="56" Uri="Assembly=$(FxRootUri)/v2.0.50727/System.Drawing.dll" />
+    <Alias n="57" Id="(@1 @2 @33 Member=(@55 OverloadingParameters=[(@56 Namespace=System.Drawing Type=Bitmap)]))" />
+    <Alias n="58" Id="(@1 @2 @31 Member=(Name=AnalyzeImage OverloadingParameters=[(@56 Namespace=System.Drawing Type=Bitmap)]))" />
+    <Alias n="59" Id="(@38 @42 Type=Boolean)" />
+    <Alias n="60" Id="(@1 @2 @33 Member=(Name=DrawArcsToImage OverloadingParameters=[@59]))" />
+    <Alias n="61" Id="(@1 @2 @33 Member=(Name=DrawArcsToImageWithRelativity OverloadingParameters=[@59]))" />
+    <Alias n="62" Id="OverloadingParameters=[@43]" />
+    <Alias n="63" Id="(@1 @23 @27 Member=(@55 @62))" />
+    <Alias n="64" Id="(@1 @23 @29 Member=(@55 @62))" />
+    <Alias n="65" Id="(@1 @17 @18 Member=(Name=CheckDeflection @62))" />
+    <Alias n="66" Id="(@1 @17 @18 Member=(Name=CheckRadius @62))" />
+    <Alias n="67" Id="(@1 @2 @21 Member=(Name=NormalizeAngle @62))" />
+    <Alias n="68" Id="(@1 @17 @18 Member=(Name=set_ArcLength @62))" />
+    <Alias n="69" Id="(@1 @17 @18 Member=(Name=set_Deflection @62))" />
+    <Alias n="70" Id="(@1 @23 @25 Member=(Name=set_MaxAngleDifference @62))" />
+    <Alias n="71" Id="(@1 @23 @25 Member=(Name=set_MaxDeflectionDifference @62))" />
+    <Alias n="72" Id="(@1 @23 @27 Member=(Name=set_MaxDistanceToMerge @62))" />
+    <Alias n="73" Id="(@1 @23 @25 Member=(Name=set_MaxPointsDistance @62))" />
+    <Alias n="74" Id="(@1 @23 @29 Member=(Name=set_MinArcLength @62))" />
+    <Alias n="75" Id="(@1 @17 @18 Member=(Name=set_StartAngle @62))" />
+    <Alias n="76" Id="(@1 @17 @18 Member=(Name=set_TangentAngle @62))" />
+    <Alias n="77" Id="(@1 @2 @33 Member=(Name=GetArcsWithEndPoint OverloadingParameters=[@40]))" />
+    <Alias n="78" Id="(@1 @2 @33 Member=(Name=GetArcsWithStartPoint OverloadingParameters=[@40]))" />
+    <Alias n="79" Id="(@1 @2 @33 Member=(Name=GetPointsSortedByDistance OverloadingParameters=[@40]))" />
+    <Alias n="80" Id="(@1 @2 @33 Member=(Name=OptimizeArcs OverloadingParameters=[@24]))" />
+    <Alias n="81" Id="(@38 @42 Type=Int32)" />
+    <Alias n="82" Id="OverloadingParameters=[@81]" />
+    <Alias n="83" Id="Member=(@55 @82)" />
+    <Alias n="84" Id="(@1 @2 @4 @83)" />
+    <Alias n="85" Id="(@1 @2 @6 @83)" />
+    <Alias n="86" Id="(@1 @2 @8 @83)" />
+    <Alias n="87" Id="(@1 @2 @10 @83)" />
+    <Alias n="88" Id="(@1 @2 @12 @83)" />
+    <Alias n="89" Id="(@1 @2 @14 @83)" />
+    <Alias n="90" Id="(@1 @2 @33 Member=(Name=AnalyzeArcs @82))" />
+    <Alias n="91" Id="(@1 @2 @36 Member=(Name=set_FileLength @82))" />
+    <Alias n="92" Id="(@1 @2 @36 Member=(Name=set_ImageID @82))" />
+    <Alias n="93" Id="(@1 @2 @33 Member=(Name=set_NeighborArcFitCount @82))" />
+    <Alias n="94" Id="(@1 @2 @36 Member=(Name=set_ShapeID @82))" />
+    <Alias n="95" Id="(@39 Namespace=AForge Type=IntPoint)" />
+    <Alias n="96" Id="(@1 @17 @18 Member=(@55 OverloadingParameters=[@95]))" />
+    <Alias n="97" Id="(@1 @17 @18 Member=(Name=set_StartPoint OverloadingParameters=[@95]))" />
+    <Alias n="98" Id="(@38 @42 Type=Single)" />
+    <Alias n="99" Id="(@1 @2 @36 Member=(Name=set_Similarity OverloadingParameters=[@98]))" />
+    <Alias n="100" Id="(@56 Namespace=System.Drawing Type=Size)" />
+    <Alias n="101" Id="(@1 @2 @36 Member=(Name=set_ImageSize OverloadingParameters=[@100]))" />
+    <Alias n="102" Id="(@1 @2 @33 Member=(Name=set_MinimumAcceptableShapeSize OverloadingParameters=[@100]))" />
+    <Alias n="103" Id="(@1 @2 @36 Member=(Name=set_ShapeSize OverloadingParameters=[@100]))" />
+    <Alias n="104" Id="(@38 @42 Type=String)" />
+    <Alias n="105" Id="OverloadingParameters=[@104]" />
+    <Alias n="106" Id="(@1 @2 @31 Member=(Name=InsertToDatabase @105))" />
+    <Alias n="107" Id="(@1 @2 @31 Member=(Name=SearchImageFiles @105))" />
+    <Alias n="108" Id="(@1 @2 @36 Member=(Name=set_ImagePath @105))" />
+    <Alias n="109" Uri="Assembly=file:///$(Personal)/Others/Codes/AForge/Release/AForge.Imaging.dll" />
+    <Alias n="110" Id="(@1 @2 @33 Member=(@55 OverloadingParameters=[(@109 Namespace=AForge.Imaging Type=UnmanagedImage)]))" />
+    <Alias n="111" Id="(@1 @2 @31 Member=(Name=MakeArcCollection OverloadingParameters=[(@1 @2 Type=(Name=ArcsDataTable ParentType=DBDataSet)),(@1 @2 Type=(Name=ArcRelationsDataTable ParentType=DBDataSet))]))" />
+    <Alias n="112" Id="(@1 @2 @31 Member=(Name=CompareBytes OverloadingParameters=[(@38 @42 Type=(Name=Byte ArrayRank=1 ParentType=Byte)),(@38 @42 Type=(Name=Byte ArrayRank=1 ParentType=Byte))]))" />
+    <Alias n="113" Id="(@1 @2 @21 Member=(Name=AngleDifference OverloadingParameters=[@43,@43]))" />
+    <Alias n="114" Id="(@1 @17 @18 Member=(Name=CalculateAngle OverloadingParameters=[@43,@43]))" />
+    <Alias n="115" Id="(@1 @2 @33 Member=(Name=&lt;GetPointsSortedByDistance&gt;b__0 OverloadingParameters=[@40,@40]))" />
+    <Alias n="116" Id="(@1 @2 @21 Member=(Name=CenterPoint OverloadingParameters=[@40,@40]))" />
+    <Alias n="117" Id="(@1 @2 @21 Member=(Name=Distance OverloadingParameters=[@40,@40]))" />
+    <Alias n="118" Id="(@1 @2 @33 Member=(Name=FindArc OverloadingParameters=[@81,@81]))" />
+    <Alias n="119" Id="(@1 @2 @33 Member=(Name=GetDataFromUimg OverloadingParameters=[@81,@81]))" />
+    <Alias n="120" Id="(@1 @2 @31 Member=(Name=SearchImageFiles OverloadingParameters=[@104,@81]))" />
+    <Alias n="121" Id="(@1 @2 @31 Member=(Name=CompareShapesBySize OverloadingParameters=[@34,@34]))" />
+    <Alias n="122" Id="(@1 @2 @31 Member=(Name=SearchSimilarImages OverloadingParameters=[@104,@98]))" />
+    <Alias n="123" Id="(@1 @2 Type=ShapeExtractor Member=(Name=ExtractFromImage OverloadingParameters=[(@56 Namespace=System.Drawing Type=Bitmap),@100]))" />
+    <Alias n="124" Id="(@1 @2 @33 Member=(Name=TestArcFit OverloadingParameters=[@19,(@38 @42 Type=Int32&amp;),(@38 @42 Type=Boolean&amp;)]))" />
+    <Alias n="125" Id="(@1 @2 @33 Member=(Name=TestArcFitForDefianced OverloadingParameters=[@19,(@38 @42 Type=Int32&amp;),(@38 @42 Type=Boolean&amp;)]))" />
+    <Alias n="126" Id="(@1 @2 @33 Member=(Name=TestArcFitForStrightLine OverloadingParameters=[@19,(@38 @42 Type=Int32&amp;),(@38 @42 Type=Boolean&amp;)]))" />
+    <Alias n="127" Id="(@1 @2 @33 Member=(Name=SetDataToUimg OverloadingParameters=[@81,@81,(@38 @42 Type=Byte)]))" />
+    <Alias n="128" Id="(@1 @23 @25 Member=(@55 OverloadingParameters=[@43,@43,@43]))" />
+    <Alias n="129" Id="(@1 @17 @18 Member=(@55 OverloadingParameters=[@95,@43,@43]))" />
+    <Alias n="130" Id="(@1 @17 @18 Member=(@55 OverloadingParameters=[@40,@40,@40]))" />
+    <Alias n="131" Id="(@1 @2 @21 Member=(Name=CircleCenter OverloadingParameters=[@40,@40,@40]))" />
+    <Alias n="132" Id="(@1 @2 @31 Member=(Name=SearchSimilarImages OverloadingParameters=[(@56 Namespace=System.Drawing Type=Bitmap),(@38 @42 Type=(Name=Byte ArrayRank=1 ParentType=Byte)),@98]))" />
+    <Alias n="133" Id="(@1 @2 @31 Member=(Name=CalculateArcSimilarity OverloadingParameters=[@19,(@38 Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1 GenericArguments=[@43])),@19,(@38 Namespace=System.Collections.Generic Type=(Name=List GenericParameterCount=1 GenericArguments=[@43]))]))" />
+    <Alias n="134" Id="(@1 @23 @25 Member=(Name=Merge2Arcs OverloadingParameters=[@19,@19,@59,@59]))" />
+    <Alias n="135" Id="(@1 @17 @18 Member=(@55 OverloadingParameters=[@40,@43,@43,@43]))" />
+    <Alias n="136" Id="(@1 @17 @18 Member=(Name=CalculateEndPoint OverloadingParameters=[@40,@43,@43,@43]))" />
+    <Alias n="137" Id="(@1 @2 @31 Member=(Name=AnalyzeSimilarity OverloadingParameters=[@20,@20,@98,(@38 @42 Type=Single&amp;)]))" />
+    <Alias n="138" Id="(@1 @17 @18 Member=(Name=CalculateRadiusAndCenterPoint OverloadingParameters=[@95,@43,@43,(@38 @42 Type=Double&amp;),(@39 Namespace=AForge Type=DoublePoint&amp;)]))" />
+    <Alias n="139" Id="(@1 @2 @31 Member=(Name=Surf OverloadingParameters=[@20,@20,@81,@81,@98]))" />
+    <Alias n="140" Id="(@1 @2 @33 Member=(Name=DrawArc OverloadingParameters=[@19,(@56 Namespace=System.Drawing Type=Graphics),@59,@81,@100]))" />
+    <Alias n="141" Id="(@1 @2 @33 Member=(Name=DrawArcsRecrusively OverloadingParameters=[@19,@95,@43,(@56 Namespace=System.Drawing Type=Graphics),@59,@81]))" />
+    <Alias n="142" Id="(@1 @2 @36 Member=(@55 OverloadingParameters=[@81,@81,@104,@100,@100,@81,@98]))" />
+    <Alias n="143" Id="(@1 @2 @33 Member=.cctor)" />
+    <Alias n="144" Id="Member=.ctor" />
+    <Alias n="145" Id="(@1 @17 @18 @144)" />
+    <Alias n="146" Id="(@1 @17 Type=ArcCollection @144)" />
+    <Alias n="147" Id="(@1 @23 @25 @144)" />
+    <Alias n="148" Id="(@1 @23 @27 @144)" />
+    <Alias n="149" Id="(@1 @2 @33 @144)" />
+    <Alias n="150" Id="(@1 @2 @6 Member=&lt;&gt;m__Finally16)" />
+    <Alias n="151" Id="(@1 @2 @8 Member=&lt;&gt;m__Finally1e)" />
+    <Alias n="152" Id="(@1 @2 @10 Member=&lt;&gt;m__Finally32)" />
+    <Alias n="153" Id="(@1 @2 @4 Member=&lt;&gt;m__Finally5)" />
+    <Alias n="154" Id="(@1 @2 @14 Member=&lt;&gt;m__Finally5)" />
+    <Alias n="155" Id="(@1 @2 @4 Member=&lt;&gt;m__Finally8)" />
+    <Alias n="156" Id="(@1 @2 @4 Member=&lt;&gt;m__Finallyb)" />
+    <Alias n="157" Id="(@1 @2 @12 Member=&lt;&gt;m__Finallyb)" />
+    <Alias n="158" Id="(@1 @2 @4 Member=&lt;&gt;m__Finallyf)" />
+    <Alias n="159" Id="(@1 @2 @33 Member=AnalyzeArcs)" />
+    <Alias n="160" Id="(@1 @17 @18 Member=Clone)" />
+    <Alias n="161" Id="(@1 @17 Type=ArcCollection Member=Clone)" />
+    <Alias n="162" Id="(@1 @17 @18 Member=get_Angle)" />
+    <Alias n="163" Id="(@1 @17 @18 Member=get_ArcLength)" />
+    <Alias n="164" Id="(@1 @2 @33 Member=get_Arcs)" />
+    <Alias n="165" Id="(@1 @17 @18 Member=get_CenterPoint)" />
+    <Alias n="166" Id="(@1 @17 @18 Member=get_Deflection)" />
+    <Alias n="167" Id="(@1 @17 @18 Member=get_EndAngle)" />
+    <Alias n="168" Id="(@1 @17 @18 Member=get_EndPoint)" />
+    <Alias n="169" Id="(@1 @17 @18 Member=get_EndPointTangentAngle)" />
+    <Alias n="170" Id="(@1 @17 @18 Member=get_HeadToHeadArcsAndAngles)" />
+    <Alias n="171" Id="(@1 @2 @33 Member=get_Height)" />
+    <Alias n="172" Id="(@1 @17 @18 Member=get_IsStrightLine)" />
+    <Alias n="173" Id="(@1 @23 @25 Member=get_MaxAngleDifference)" />
+    <Alias n="174" Id="(@1 @23 @25 Member=get_MaxDeflectionDifference)" />
+    <Alias n="175" Id="(@1 @23 @27 Member=get_MaxDistanceToMerge)" />
+    <Alias n="176" Id="(@1 @23 @25 Member=get_MaxPointsDistance)" />
+    <Alias n="177" Id="(@1 @17 @18 Member=get_MiddlePoint)" />
+    <Alias n="178" Id="(@1 @23 @29 Member=get_MinArcLength)" />
+    <Alias n="179" Id="(@1 @2 @33 Member=get_MinimumAcceptableShapeSize)" />
+    <Alias n="180" Id="(@1 @17 @18 Member=get_NextArcsAndAngles)" />
+    <Alias n="181" Id="(@1 @17 @18 Member=get_Radius)" />
+    <Alias n="182" Id="(@1 @17 @18 Member=get_StartAngle)" />
+    <Alias n="183" Id="(@1 @17 @18 Member=get_StartPoint)" />
+    <Alias n="184" Id="(@1 @17 @18 Member=get_TailToTailArcsAndAngles)" />
+    <Alias n="185" Id="(@1 @17 @18 Member=get_TangentAngle)" />
+    <Alias n="186" Id="(@1 @2 @33 Member=get_Width)" />
+    <Alias n="187" Id="(@1 @2 @33 Member=GetMaxSizeToDraw)" />
+    <Alias n="188" Id="(@1 @2 @33 Member=GetMinSizeToDraw)" />
+    <Alias n="189" Id="Member=MoveNext" />
+    <Alias n="190" Id="(@1 @2 @4 @189)" />
+    <Alias n="191" Id="(@1 @2 @6 @189)" />
+    <Alias n="192" Id="(@1 @2 @8 @189)" />
+    <Alias n="193" Id="(@1 @2 @10 @189)" />
+    <Alias n="194" Id="(@1 @2 @12 @189)" />
+    <Alias n="195" Id="(@1 @2 @14 @189)" />
+    <Alias n="196" Id="(@1 @2 @33 Member=RelativateArcs)" />
+    <Alias n="197" Id="(@1 @2 @33 Member=RelativateArcsAndGetUnrelatedArcs)" />
+    <Alias n="198" Id="(@1 @2 @12 Member=System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.GetEnumerator)" />
+    <Alias n="199" Id="(@1 @2 @14 Member=System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.GetEnumerator)" />
+    <Alias n="200" Id="(@1 @2 @8 Member=System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.ShapeInfo&gt;.GetEnumerator)" />
+    <Alias n="201" Id="(@1 @2 @10 Member=System.Collections.Generic.IEnumerable&lt;SimilarImageSearchEngine.ShapeInfo&gt;.GetEnumerator)" />
+    <Alias n="202" Id="(@1 @2 @4 Member=System.Collections.Generic.IEnumerable&lt;System.String&gt;.GetEnumerator)" />
+    <Alias n="203" Id="(@1 @2 @6 Member=System.Collections.Generic.IEnumerable&lt;System.String&gt;.GetEnumerator)" />
+    <Alias n="204" Id="(@1 @2 @12 Member=System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.get_Current)" />
+    <Alias n="205" Id="(@1 @2 @14 Member=System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.Arcs.Arc&gt;.get_Current)" />
+    <Alias n="206" Id="(@1 @2 @8 Member=System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.ShapeInfo&gt;.get_Current)" />
+    <Alias n="207" Id="(@1 @2 @10 Member=System.Collections.Generic.IEnumerator&lt;SimilarImageSearchEngine.ShapeInfo&gt;.get_Current)" />
+    <Alias n="208" Id="Member=System.Collections.IEnumerable.GetEnumerator" />
+    <Alias n="209" Id="(@1 @2 @4 @208)" />
+    <Alias n="210" Id="(@1 @2 @6 @208)" />
+    <Alias n="211" Id="(@1 @2 @8 @208)" />
+    <Alias n="212" Id="(@1 @2 @10 @208)" />
+    <Alias n="213" Id="(@1 @2 @12 @208)" />
+    <Alias n="214" Id="(@1 @2 @14 @208)" />
+    <Alias n="215" Id="Member=System.Collections.IEnumerator.get_Current" />
+    <Alias n="216" Id="Member=System.Collections.IEnumerator.Reset" />
+    <Alias n="217" Id="Member=System.IDisposable.Dispose" />
+    <Alias n="218" Id="(@1 @2 @4 @217)" />
+    <Alias n="219" Id="(@1 @2 @6 @217)" />
+    <Alias n="220" Id="(@1 @2 @8 @217)" />
+    <Alias n="221" Id="(@1 @2 @10 @217)" />
+    <Alias n="222" Id="(@1 @2 @12 @217)" />
+    <Alias n="223" Id="(@1 @2 @14 @217)" />
+    <Alias n="224" Id="(@1 @17 @18 Member=ToString)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="32f7bfd1-6336-4571-af2c-275709dad1eb.OutputPath" Value="D:\My Codes\CSharp\SimilarImageSearcher\trunk\VisualTest\bin\Debug\VisualTest.dll" />
+    <Path Id="92ff4285-25de-4e86-8dcf-9ff2fe39c3f7.OutputPath" Value="D:\My Codes\CSharp\SimilarImageSearcher\trunk\SimilarImageSearcher\bin\Debug\SimilarImageSearcher.exe" />
+    <Path Id="b6746621-52d4-4a98-b4a0-61d05d9917c7.OutputPath" Value="D:\My Codes\CSharp\SimilarImageSearcher\trunk\SimilarImageSearchEngine\bin\Debug\SimilarImageSearchEngine.dll" />
+    <Path Id="b6746621-52d4-4a98-b4a0-61d05d9917c7.OutputPathUri" Value="file:///D:/My Codes/CSharp/SimilarImageSearcher/trunk/SimilarImageSearchEngine/bin/Debug/SimilarImageSearchEngine.dll" />
+    <Path Id="FxRoot" Value="C:\Windows\Microsoft.NET\Framework" />
+    <Path Id="FxRootUri" Value="file:///C:/Windows/Microsoft.NET/Framework" />
+    <Path Id="Personal" Value="D:" />
+  </Paths>
+</DirectedGraph>
